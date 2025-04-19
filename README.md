@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm from India<br><br>- 🔭 I’m working as coding ninja<br>- 📚 I'm currently learning Deovps and LLM<br>- ⚡ In my free time I code</p>
+<p align="left">I'm from India<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning Deovps and LLM<br>- ⚡ In my free time I vieo edit</p>
 
 ###
 
